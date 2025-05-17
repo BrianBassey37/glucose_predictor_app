@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2,CV_R2
+XGBoost,2.18,2.85,0.99,0.99
+LightGBM,1.48,1.95,0.99,0.99
+Random Forest,4.09,5.38,0.95,0.95
+Linear Regression,4.57,5.58,0.95,0.95
+KNN,5.97,7.52,0.91,0.9
