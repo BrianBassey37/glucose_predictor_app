@@ -126,4 +126,4 @@ if uploaded_file:
 
 # Footer
 st.markdown("---")
-st.markdown("<center>Designed by <b>Aniete</b> as a <i>research project</i>.</center>", unsafe_allow_html=True)
+st.markdown("<center>Designed by <b>BrianBassey</b> as a <i>research project</i>.</center>", unsafe_allow_html=True)
